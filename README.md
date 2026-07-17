@@ -1,6 +1,5 @@
 # cybersecurity-day-2# CPU, Memory & Buses — Notes 🖥️
 
-Study notes covering memory types, CPU internal working, system buses, and BIOS/POST — for Information Technology coursework.
 
 ---
 
