@@ -70,11 +70,3 @@ agr ip likh k b search kro to website open ho jati hai , iska matlab hai k websi
 - TLD Server: domain type handle karta hai (.com, .org)
 - Auth Server: final, correct IP address deta hai
 
-## 7. Quick Recap
-
-- Internal Communication → Computer ke andar (CPU, RAM, ROM, Input, Output)
-- External Communication → Network ke zariye, do devices connect (DNS included)
-- GUI → Icons aur mouse clicks se interaction
-- CLI → Typed commands se interaction
-- DNS → Website ka naam IP address mein convert karta hai
-- Cache → Pehle visit ki gayi cheez store karta hai, dobara dhundna nahi padta
